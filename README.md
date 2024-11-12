@@ -83,7 +83,7 @@ Here are some screenshots of the Shopping List Application:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mkang817415/ShoppingList
+   git clone [https://github.com/mkang817415/ShoppingList](https://github.com/mkang817415/ShoppingList.git)
    ```
 2. Open the project in Android Studio.
 3. Build the project and run it on an Android emulator or physical device.
