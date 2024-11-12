@@ -59,22 +59,22 @@ The code is organized in a structured manner to follow best practices:
 Here are some screenshots of the Shopping List Application:
 
 - **Splash Screen**: 
-  ![Splash Screen](images/splash_screen.png)
+  <img src="Sample%20Photos/splash.png" alt="splash" width="200" />
 
 - **Shopping List Screen**: 
-  ![Shopping List](images/shopping_list_screen.png)
+  <img src="Sample%20Photos/shopping.png" alt="Shopping List" width="200" />
 
 - **New Item Dialog**: 
-  ![New Item Dialog](images/new_item_dialog.png)
+  <img src="Sample%20Photos/add.png" alt="add" width="200" />
   
 - **Edit Item Dialog**: 
-  ![Edit Item](images/edit_item_dialog.png)
+  <img src="Sample%20Photos/edit.png" alt="edit" width="200" />
 
 - **Categories List Screen**: 
-  ![Categories List](images/categories_list.png)
+  <img src="Sample%20Photos/categories.png" alt="categories" width="200" />
 
 - **Summary Screen**: 
-  ![Summary](images/summary_screen.png)
+  <img src="Sample%20Photos/summary.png" alt="summary" width="200" />
 
 
   
@@ -83,7 +83,7 @@ Here are some screenshots of the Shopping List Application:
 
 1. Clone the repository:
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/mkang817415/ShoppingList
    ```
 2. Open the project in Android Studio.
 3. Build the project and run it on an Android emulator or physical device.
